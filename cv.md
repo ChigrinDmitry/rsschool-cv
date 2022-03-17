@@ -17,7 +17,7 @@ I am really keen on studying something new, what is proved by my previous experi
 HTML, CSS, JS, GIT, VS Code, Agile methodology.
 
 ## Code examples
-'''
+```
 <!DOCTYPE html>
 <html lang="ru">
   <head>
@@ -27,7 +27,7 @@ HTML, CSS, JS, GIT, VS Code, Agile methodology.
   <body>
   </body>
 </html>
-'''
+```
 
 ## Experience
 HTML, CSS, JS learning programmes
